@@ -1,0 +1,2 @@
+# PHP_Laravel12_Translate_Data_Language_Wise
+Laravel translate data language wise
